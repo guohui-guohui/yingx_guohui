@@ -1,0 +1,17 @@
+[
+  {
+    "sex": "小男孩",
+    "citys": [
+      {"name": "北京","value": 31},
+      {"name": "河南","value": 53},
+      {"name": "河北","value": 37}
+    ]
+  },{
+    "sex": "小姑娘",
+    "citys": [
+      {"name": "陕西","value": 31},
+      {"name": "山西","value": 53},
+      {"name": "山东","value": 37}
+    ]
+  }
+]
